@@ -1,9 +1,9 @@
 # 100DaysOfCode
-###Rohit Singh
-####CSE Student
+### Rohit Singh
+#### CSE Student
 
 
-##Timeline
+## Timeline
 
 | Day 🌅| Date 📆      | Tasks/Work Done  | Reference Link|
 | ----- |   :-------:   | :---------------:|  :----------:  |
