@@ -1,6 +1,6 @@
 # 100DaysOfCode
 ### Rohit Singh
-* CSE Student *
+_ CSE Student _ 
 
 
 ## Timeline
