@@ -14,3 +14,4 @@
 | Day 3 | 17th Oct 2021 |     DS, JS miniproject3              |   [JS miniproject](https://github.com/Rohit-singh-code/Web-Dev/tree/main/Mini-Projects/Dice-game), [DS](https://github.com/Rohit-singh-code/Data-Structures/tree/main/TREES)          |
 | Day 4 | 18th Oct 2021 |     DS-strings            | [DS](https://github.com/RohitSinghDev/Data-Structures/tree/main/Strings)          |
 | Day 5 | 19th Oct 2021 |     Julia basics           | [Julia](https://github.com/RohitSinghDev/Julia-Programming)          |
+| Day 6 | 20th Oct 2021 |     Julia basics, JS miniproject3, C++           | [Julia](https://github.com/RohitSinghDev/Julia-Programming), [JS miniproject](https://github.com/RohitSinghDev/Web-Dev/tree/main/Mini-Projects/Dice-game)       |
