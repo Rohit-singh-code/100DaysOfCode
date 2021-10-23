@@ -17,3 +17,4 @@
 | Day 6 | 20th Oct 2021 |     Julia basics, JS miniproject3, C++           | [Julia](https://github.com/RohitSinghDev/Julia-Programming), [JS miniproject](https://github.com/RohitSinghDev/Web-Dev/tree/main/Mini-Projects/Dice-game)       |
 | Day 7 | 21st Oct 2021 |     Julia basics, JS , DSA         |       |
 | Day 8 | 22nd Oct 2021 |     Julia , JS          | [Julia](https://github.com/RohitSinghDev/Julia-Programming)      |
+| Day 9 | 23rd Oct 2021 |     Julia           |      |
