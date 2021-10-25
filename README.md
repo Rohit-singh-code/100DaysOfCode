@@ -19,3 +19,4 @@
 | Day 8 | 22nd Oct 2021 |     Julia , JS          | [Julia](https://github.com/RohitSinghDev/Julia-Programming)      |
 | Day 9 | 23rd Oct 2021 |     Julia           |      |
 | Day 10 | 24th Oct 2021 |     DS           |      |
+| Day 11 | 25th Oct 2021 |     DS, JS-Scoping, Hoisting           |      |
