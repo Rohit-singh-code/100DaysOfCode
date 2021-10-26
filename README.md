@@ -20,3 +20,4 @@
 | Day 9 | 23rd Oct 2021 |     Julia           |      |
 | Day 10 | 24th Oct 2021 |     DS           |      |
 | Day 11 | 25th Oct 2021 |     DS, JS-Scoping, Hoisting           |      |
+| Day 12 | 26th Oct 2021 |     DS - Trees, React JS           |   [DS](https://github.com/RohitSinghDev/Data-Structures/tree/main/TREES)   |
