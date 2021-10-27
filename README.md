@@ -21,3 +21,4 @@
 | Day 10 | 24th Oct 2021 |     DS           |      |
 | Day 11 | 25th Oct 2021 |     DS, JS-Scoping, Hoisting           |      |
 | Day 12 | 26th Oct 2021 |     DS - Trees, React JS           |   [DS](https://github.com/RohitSinghDev/Data-Structures/tree/main/TREES)   |
+| Day 13 | 27th Oct 2021 |     DS - Heaps, React JS           |   [DS](https://github.com/RohitSinghDev/Data-Structures/tree/main/Heaps)  |
