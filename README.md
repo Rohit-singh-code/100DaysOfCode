@@ -25,5 +25,7 @@
 | Day 14 | 28th Oct 2021 |     CSS, React JS           |     |
 | Day 15 | 29th Oct 2021 |     CSS, React JS           |   https://github.com/RohitSinghDev/Web-Dev  |
 | Day 16 | 30th Oct 2021 |     No Code Day         |  😪 |
-| Day 17 | 31st Oct 2021 |        DSA, Hackothon Idea Submission     | [Hackthon project](https://github.com/RohitSinghDev/SAMARAIZA) |
+| Day 17 | 31st Oct 2021 |        DSA, Hackothon Idea Submission, personal project    | [Hackthon project](https://github.com/RohitSinghDev/SAMARAIZA) |
 | Day 18 | 1st Nov 2021 |   Personal Project          |  |
+| Day 19 | 2nd Nov 2021 |   Personal Project          | [Visual-speed-simulator](https://github.com/RohitSinghDev/Visual-Speed-Simulator) |
+| Day 20 | 3rd Nov 2021 |   Personal Project          | [Visual-speed-simulator](https://github.com/RohitSinghDev/Visual-Speed-Simulator) |
