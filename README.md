@@ -23,7 +23,7 @@
 | Day 12 | 26th Oct 2021 |     DS - Trees, React JS           |   [DS](https://github.com/RohitSinghDev/Data-Structures/tree/main/TREES)   |
 | Day 13 | 27th Oct 2021 |     DS - Heaps, React JS           |   [DS](https://github.com/RohitSinghDev/Data-Structures/tree/main/Heaps)  |
 | Day 14 | 28th Oct 2021 |     CSS, React JS           |     |
-| Day 15 | 29th Oct 2021 |     CSS, React JS           |   https://github.com/RohitSinghDev/Web-Dev  |
+| Day 15 | 29th Oct 2021 |     CSS, React JS           |   [React JS](https://github.com/RohitSinghDev/Web-Dev)  |
 | Day 16 | 30th Oct 2021 |     No Code Day         |  😪 |
 | Day 17 | 31st Oct 2021 |        DSA, Hackothon Idea Submission, personal project    | [Hackthon project](https://github.com/RohitSinghDev/SAMARAIZA) |
 | Day 18 | 1st Nov 2021 |   Personal Project          |  |
