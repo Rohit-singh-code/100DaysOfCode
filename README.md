@@ -31,3 +31,5 @@
 | Day 20 | 3rd Nov 2021 |   Personal Project-1        | [Visual-speed-simulator](https://github.com/RohitSinghDev/Visual-Speed-Simulator) |
 | Day 21 | 4th Nov 2021 |   Personal Project-2        |  |
 | Day 22 | 5th Nov 2021 |   Personal Project-2        |  |
+| Day 23 | 6th Nov 2021 |   React js        |  |
+| Day 24 | 7th Nov 2021 |   Personal Project(p2)-2        |  |
