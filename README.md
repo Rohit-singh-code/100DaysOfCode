@@ -33,3 +33,4 @@
 | Day 22 | 5th Nov 2021 |   Personal Project-2        |  |
 | Day 23 | 6th Nov 2021 |   React js        |  |
 | Day 24 | 7th Nov 2021 |   Personal Project(p2)-2        |  |
+| Day 25 | 8th Nov 2021 |   Personal Project(p2)-2, ReactJS, DS        |  |
