@@ -35,4 +35,8 @@
 | Day 24 | 7th Nov 2021 |   Personal Project(p2)-2        |  |
 | Day 25 | 8th Nov 2021 |   Personal Project(p2)-2, ReactJS, DS        |  |
 | Day 26 | 9th Nov 2021 |   CSS, DS        |  |
-
+| Day 27 | 10th Nov 2021 |   DS-trees       |  |
+| Day 28 | 11th Nov 2021 |   Preparation for 24-hr Hackothon       |  |
+| Day 29 | 12th Nov 2021 | Ingenius Hackothon     | [SAMARAIZA](https://github.com/RohitSinghDev/SAMARAIZA) |
+| Day 30 | 13th Nov 2021 | Ingenius Hackothon     | [SAMARAIZA](https://github.com/RohitSinghDev/SAMARAIZA) |
+| Day 31 | 14th Nov 2021 |   Pandas and data plotting from dataset, React JS     |  |
