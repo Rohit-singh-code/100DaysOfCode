@@ -40,3 +40,6 @@
 | Day 29 | 12th Nov 2021 | Ingenius Hackothon     | [SAMARAIZA](https://github.com/RohitSinghDev/SAMARAIZA) |
 | Day 30 | 13th Nov 2021 | Ingenius Hackothon     | [SAMARAIZA](https://github.com/RohitSinghDev/SAMARAIZA) |
 | Day 31 | 14th Nov 2021 |   Pandas and data plotting from dataset, React JS     |  |
+| Day 32 | 15th Nov 2021 |   React JS    |  |
+| Day 33 | 16th Nov 2021 |  DS Concept revise    |  |
+| Day 34 | 17th Nov 2021 |  react JS, DS, Julia revise    |  |
