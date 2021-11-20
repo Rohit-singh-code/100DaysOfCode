@@ -44,3 +44,5 @@
 | Day 33 | 16th Nov 2021 |  DS Concept revise    |  |
 | Day 34 | 17th Nov 2021 |  react JS, DS, Julia revise    |  |
 | Day 35 | 18th Nov 2021 |  react JS, Julia revise, python lib and concepts    |  |
+| Day 36 | 19th Nov 2021 |  Julia   |  |
+| Day 37 | 20th Nov 2021 |  React JS, DS    |  |
