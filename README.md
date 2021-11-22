@@ -47,3 +47,4 @@
 | Day 36 | 19th Nov 2021 |  Julia   |  |
 | Day 37 | 20th Nov 2021 |  React JS, DS    |  |
 | Day 38 | 21th Nov 2021 |  React JS, DS   |  |
+| Day 39 | 22nd Nov 2021 |  DS, Numpy basics   |  |
