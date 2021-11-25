@@ -48,4 +48,7 @@
 | Day 37 | 20th Nov 2021 |  React JS, DS    |  |
 | Day 38 | 21th Nov 2021 |  React JS, DS   |  |
 | Day 39 | 22nd Nov 2021 |  DS, Numpy basics   |  |
-| Day 40 | 23rd Nov 2021 |  DS, Node JS,    |  |
+| Day 40 | 23rd Nov 2021 |  DS-Heaps, Node JS,    |  |
+| Day 41 | 24th Nov 2021 |  DS-Hashing, Node JS,     |  |
+| Day 42 | 25th Nov 2021 |  DS-graphs,Trees, Node JS,     |  |
+
