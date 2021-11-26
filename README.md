@@ -1,7 +1,7 @@
 # 100DaysOfCode
 
 ### Rohit Singh
-*CSE Student* 
+*CSE Student - 2020-24* 
 
 
 
