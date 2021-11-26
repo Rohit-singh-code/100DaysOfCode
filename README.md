@@ -10,7 +10,8 @@
 | Day 🌅| Date 📆      | Tasks/Work Done  | Reference Link|
 | ----- |   :-------:   | :---------------:|  :----------:  |
 | Day 1 | 15th Oct 2021 | Data structures, JS basics & miniproject1             |     [data str](https://github.com/Rohit-singh-code/Data-Structures) |
-| Day 2 | 16th Oct 2021 | DS-Trees,linked lists, JS miniproject2            | [data str](https://github.com/Rohit-singh-code/Data-Structures) , [JS miniproject](https://github.com/Rohit-singh-code/Web-Dev/tree/main/Mini-Projects)        |      
+| Day 2 | 16th Oct 2021 | DS-Trees,linked lists,            | [data str](https://github.com/Rohit-singh-code/Data-Structures) ,         | 
+|        |               |  JS miniproject2  | [JS miniproject](https://github.com/Rohit-singh-code/Web-Dev/tree/main/Mini-Projects) |
 | Day 3 | 17th Oct 2021 |     DS, JS miniproject3              |   [JS miniproject](https://github.com/Rohit-singh-code/Web-Dev/tree/main/Mini-Projects/Dice-game), [DS](https://github.com/Rohit-singh-code/Data-Structures/tree/main/TREES)          |
 | Day 4 | 18th Oct 2021 |     DS-strings            | [DS](https://github.com/RohitSinghDev/Data-Structures/tree/main/Strings)          |
 | Day 5 | 19th Oct 2021 |     Julia basics           | [Julia](https://github.com/RohitSinghDev/Julia-Programming)          |
@@ -20,6 +21,7 @@
 | Day 9 | 23rd Oct 2021 |     Julia           |      |
 | Day 10 | 24th Oct 2021 |     DS           |      |
 | Day 11 | 25th Oct 2021 |     DS, JS-Scoping, Hoisting           |      |
+|        |               | JS-Scoping and Hoisting |  |
 | Day 12 | 26th Oct 2021 |     DS - Trees, React JS           |   [DS](https://github.com/RohitSinghDev/Data-Structures/tree/main/TREES)   |
 | Day 13 | 27th Oct 2021 |     DS - Heaps, React JS           |   [DS](https://github.com/RohitSinghDev/Data-Structures/tree/main/Heaps)  |
 | Day 14 | 28th Oct 2021 |     CSS, React JS           |     |
@@ -43,11 +45,14 @@
 | Day 32 | 15th Nov 2021 |   React JS    |  |
 | Day 33 | 16th Nov 2021 |  DS Concept revise    |  |
 | Day 34 | 17th Nov 2021 |  react JS, DS, Julia revise    |  |
-| Day 35 | 18th Nov 2021 |  react JS, Julia revise, python libs and concepts    |  |
+| Day 35 | 18th Nov 2021 |  react JS   |  |
+|        |               |  Julia revise |  |
+|        |               |  python Libs and concepts |  |
 | Day 36 | 19th Nov 2021 |  Julia   |  |
 | Day 37 | 20th Nov 2021 |  React JS, DS    |  |
 | Day 38 | 21th Nov 2021 |  React JS, DS   |  |
-| Day 39 | 22nd Nov 2021 |  DS, Numpy basics   |  |
+| Day 39 | 22nd Nov 2021 |  DS   |  |
+|        |               |  Numpy Basics |  |
 | Day 40 | 23rd Nov 2021 |  DS-Heaps, Node JS,          |  |
 |        |               |  Node JS- files and streams  |  |
 | Day 41 | 24th Nov 2021 |  DS-Hashing,              |  |
