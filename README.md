@@ -50,7 +50,6 @@
 | Day 39 | 22nd Nov 2021 |  DS, Numpy basics   |  |
 | Day 40 | 23rd Nov 2021 |  DS-Heaps, Node JS,          |  |
 |        |               |  Node JS- files and streams  |  |
-
 | Day 41 | 24th Nov 2021 |  DS-Hashing,              |  |
 |        |               |  Node JS- http, response  |  |
 | Day 42 | 25th Nov 2021 |  DS-graphs,Trees          |  |
