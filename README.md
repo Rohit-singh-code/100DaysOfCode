@@ -53,7 +53,7 @@
 | Day 38 | 21th Nov 2021 |  React JS, DS   |  |
 | Day 39 | 22nd Nov 2021 |  DS   |  |
 |        |               |  Numpy Basics |  |
-| Day 40 | 23rd Nov 2021 |  DS-Heaps, Node JS,          |  |
+| Day 40 | 23rd Nov 2021 |  DS-Heaps         |  |
 |        |               |  Node JS- files and streams  |  |
 | Day 41 | 24th Nov 2021 |  DS-Hashing,              |  |
 |        |               |  Node JS- http, response  |  |
