@@ -60,3 +60,5 @@
 | Day 42 | 25th Nov 2021 |  DS-graphs,Trees          |  |
 |        |               |  Node JS- express         |  |
 | Day 43 | 26th Nov 2021 |  Node JS - ejs, partials   |  |
+| Day 44 | 27th Nov 2021 |  Numpy Basics         |  |
+|        |               |  Node JS-  Middleware, static files, lodash    |  |
