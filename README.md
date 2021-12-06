@@ -62,3 +62,20 @@
 | Day 43 | 26th Nov 2021 |  Node JS - ejs, partials   |  |
 | Day 44 | 27th Nov 2021 |  Numpy Basics         |  |
 |        |               |  Node JS-  Middleware, static files, lodash    |  |
+| Day 45 | 28th Nov 2021 |  No Code Day         | 😪|
+| Day 46 | 29th Nov 2021 |  DS-Graphs,Trees       |  |
+| Day 47 | 30th Nov 2021 |  No Code Day          | 😪 |
+| Day 48 | 1st Dec 2021 |  Node JS - MongoDB, Mongoose       |  |
+| Day 49 | 2nd Dec 2021 |   Node JS - MongoDB, Mongoose, Morgan     |  |
+| Day 50 | 3rd Dec 2021 |   React JS     |  |
+| Day 51 | 4th Dec 2021 |   MERN website     |  |
+| Day 52 | 5th Dec 2021 |   MERN website     |  |
+| Day 53 | 6th Dec 2021 |   Numpy Basics     |  |
+| |  |   React JS, Node JS    |  |
+| |  |   Julia   |  |
+
+
+
+
+
+
