@@ -73,6 +73,11 @@
 | Day 53 | 6th Dec 2021 |   Numpy Basics     |  |
 | |  |   React JS, Node JS    |  |
 | |  |   Julia   |  |
+| Day 54 | 7th Dec 2021 |   DS- graphs    |  |
+| |  |   Node JS - data-views, ejs     |  |
+| |  |   Julia     |  |
+
+
 
 
 
