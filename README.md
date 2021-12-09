@@ -76,6 +76,10 @@
 | Day 54 | 7th Dec 2021 |   DS- graphs    |  |
 | |  |   Node JS - data-views, ejs     |  |
 | |  |   Julia     |  |
+| Day 55 | 8th Dec 2021 |   DS- graphs    |  |
+| |  |   Julia     |  |
+| |  |   Node JS - MongoDB, Mongoose     |  |
+
 
 
 
