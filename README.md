@@ -80,6 +80,17 @@
 | |  |   Julia     |  |
 | |  |   Node JS - MongoDB, Mongoose     |  |
 | Day 56 | 9th Dec 2021 |  Julia   |  |
+|  | |  Node JS   |  |
+
+| Day 57 | 10th Dec 2021 |  DS - Graphs   |  |
+|  | |  Node JS   |  |
+
+| Day 58 | 11th Dec 2021 |  DS - Graphs   |  |
+| |  |     |  |
+
+
+
+
 
 
 
