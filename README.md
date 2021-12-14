@@ -85,6 +85,10 @@
 |  | |  Node JS   |  |
 | Day 58 | 11th Dec 2021 |  DS - Graphs   |  |
 | |  |     |  |
+| Day 59 | 12th Dec 2021 |  DS - Graphs   |  |
+| |  |  Node JS - post req   |  |
+| Day 60 | 13th Dec 2021 |  DS    |  |
+| |  |     |  |
 
 
 
