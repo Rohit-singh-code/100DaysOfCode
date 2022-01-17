@@ -107,6 +107,53 @@
 | Day 77 | 30th Dec 2021 |  End-sem Exams    |  |
 | Day 78 | 31st Dec 2021 |  No Code Day    |  |
 | Day 79 | 1st Jan 2022 |  No Code Day    |  |
+| Day 80 | 2nd Jan 2022 |   DS - concepts revision   |  |
+| Day 81 | 3rd Jan 2022 |  Node JS    |  |
+| Day 82 | 4th Jan 2022 |  Python-oops    |  |
+|  |  |  Node JS    |  |
+| Day 83 | 5th Jan 2022 | Python-oops      |  |
+|  |  |  DS- graphs, linked lists    |  |
+| Day 84 | 6th Jan 2022 | Blockchain concepts      |  |
+|  |  |  JS concepts    |  |
+| Day 85 | 7th Jan 2022 | Blockchain concepts      |  |
+|  |  |  Python-oops    |  |
+| Day 86 | 8th Jan 2022 | Blockchain, first Dapp project      |  |
+|  |  |  Pyhton-OS lib    |  |
+|  |  |  JS advanced concepts    |  |
+| Day 87 | 9th Jan 2022 | Blockchain tech stack, Dapp project      |  |
+|  |  |  Python-oops    |  |
+| Day 88 | 10th Jan 2022 | Blockchain, Solidity basics     |  |
+|  |  |  Python-oops-magic methods    |  |
+|  |  |  JS-scope chaining    |  |
+| Day 89 | 11th Jan 2022 | Solidity    |  |
+| Day 90 | 12th Jan 2022 | Solidity, DeFi Dapp   |  |
+| Day 91 | 13th Jan 2022 | smart contract, DeFi Dapp   |  |
+| Day 92 | 14th Jan 2022 | React JS   |  |
+| Day 93 | 15th Jan 2022 | React JS   |  |
+|  |  | DeFi Dapp   |  |
+| Day 94 | 16th Jan 2022 | React JS   |  |
+|  |  | DeFi Dapp   |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
