@@ -133,6 +133,21 @@
 |  |  | DeFi Dapp   |  |
 | Day 94 | 16th Jan 2022 | React JS   |  |
 |  |  | DeFi Dapp   |  |
+| Day 95 | 17th Jan 2022 | React JS   |  |
+|  |  | Solidity, Blockchain concepts   |  |
+|  |  | DS-Graphs   |  |
+| Day 96 | 18th Jan 2022 | React JS   |  |
+|  |  | Solidity, Blockchain concepts   |  |
+|  |  | JS scope chaining   |  |
+| Day 97 | 19th Jan 2022 | Python oops   |  |
+|  |  | Bitcoin, Blockchain concepts   |  |
+| Day 98 | 20th Jan 2022 | DS-Trees   |  |
+|  |  | IPFS   |  |
+|  |  | React JS   |  |
+| Day 99 | 21st Jan 2022 |  smart contracts, test files  |  |
+|  |  | DS   |  |
+| Day 100 | 22nd Jan 2022 | JS hoisting and concepts   |  |
+|  |  | smart contracts, solidity   |  |
 
 
 
