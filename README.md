@@ -88,25 +88,25 @@
 | Day 59 | 12th Dec 2021 |  DS - Graphs   |  |
 | |  |  Node JS - post req   |  |
 | Day 60 | 13th Dec 2021 |  DS    |  |
-| Day 61 | 14th Dec 2021 |  End-sem Exams    |  |
-| Day 62 | 15th Dec 2021 |  End-sem Exams    |  |
+| Day 61 | 14th Dec 2021 |  End-sem Exams    |😑 |
+| Day 62 | 15th Dec 2021 |  End-sem Exams    | 😑 |
 | Day 63 | 16th Dec 2021 |  DS-stacks and queues    |  |
 | Day 64 | 17th Dec 2021 |  DS-graphs,trees    |  |
 | Day 65 | 18th Dec 2021 |  DS-trees,hashing    |  |
 | Day 66 | 19th Dec 2021 |  DS-heaps, linked list    |  |
 | Day 67 | 20th Dec 2021 |  DS-trees,hashing    |  |
-| Day 68 | 21st Dec 2021 |  End-sem Exams    |  |
-| Day 69 | 22nd Dec 2021 |  End-sem Exams    |  |
-| Day 70 | 23rd Dec 2021 |  End-sem Exams    |  |
+| Day 68 | 21st Dec 2021 |  End-sem Exams    | 😑 |
+| Day 69 | 22nd Dec 2021 |  End-sem Exams    | 🥱 |
+| Day 70 | 23rd Dec 2021 |  End-sem Exams    | 🥱 |
 | Day 71 | 24th Dec 2021 |  React JS , Express JS   |  |
 | Day 72 | 25th Dec 2021 |  Node JS, MongoDB    |  |
 | Day 73 | 26th Dec 2021 |  Javascript,Jquery, MongoDB    |  |
 | Day 74 | 27th Dec 2021 |  React JS    |  |
 | Day 75 | 28th Dec 2021 |  HTML-CSS, Express JS    |  |
-| Day 76 | 29th Dec 2021 |  End-sem Exams    |  |
-| Day 77 | 30th Dec 2021 |  End-sem Exams    |  |
-| Day 78 | 31st Dec 2021 |  No Code Day    |  |
-| Day 79 | 1st Jan 2022 |  No Code Day    |  |
+| Day 76 | 29th Dec 2021 |  End-sem Exams    | 😫 |
+| Day 77 | 30th Dec 2021 |  End-sem Exams    | 😫 |
+| Day 78 | 31st Dec 2021 |  No Code Day    | 😪 |
+| Day 79 | 1st Jan 2022 |  No Code Day    | 😪 |
 | Day 80 | 2nd Jan 2022 |   DS - concepts revision   |  |
 | Day 81 | 3rd Jan 2022 |  Node JS    |  |
 | Day 82 | 4th Jan 2022 |  Python-oops    |  |
@@ -118,7 +118,7 @@
 | Day 85 | 7th Jan 2022 | Blockchain concepts      |  |
 |  |  |  Python-oops    |  |
 | Day 86 | 8th Jan 2022 | Blockchain, first Dapp project      |  |
-|  |  |  Pyhton-OS lib    |  |
+|  |  |  Python-OS lib    |  |
 |  |  |  JS advanced concepts    |  |
 | Day 87 | 9th Jan 2022 | Blockchain tech stack, Dapp project      |  |
 |  |  |  Python-oops    |  |
