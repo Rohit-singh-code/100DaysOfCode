@@ -49,8 +49,8 @@
 |        |               |  Julia revise |  |
 |        |               |  python Libs and concepts |  |
 | Day 36 | 19th Nov 2021 |  Julia   |  |
-| Day 37 | 20th Nov 2021 |  React JS, DS    |  |
-| Day 38 | 21th Nov 2021 |  React JS, DS   |  |
+| Day 37 | 20th Nov 2021 |  React JS, DS    | [Expense Tracker](https://github.com/RohitSinghDev/React-Expense-Tracker)  |
+| Day 38 | 21th Nov 2021 |  React JS, DS   | [Expense Tracker](https://github.com/RohitSinghDev/React-Expense-Tracker) |
 | Day 39 | 22nd Nov 2021 |  DS   |  |
 |        |               |  Numpy Basics |  |
 | Day 40 | 23rd Nov 2021 |  DS-Heaps         |  |
@@ -67,7 +67,7 @@
 | Day 47 | 30th Nov 2021 |  No Code Day          | 😪 |
 | Day 48 | 1st Dec 2021 |  Node JS - MongoDB, Mongoose       |  |
 | Day 49 | 2nd Dec 2021 |   Node JS - MongoDB, Mongoose, Morgan     |  |
-| Day 50 | 3rd Dec 2021 |   React JS     |  |
+| Day 50 | 3rd Dec 2021 |   React JS     | [Expense Tracker](https://github.com/RohitSinghDev/React-Expense-Tracker) |
 | Day 51 | 4th Dec 2021 |   MERN website     |  |
 | Day 52 | 5th Dec 2021 |   MERN website     |  |
 | Day 53 | 6th Dec 2021 |   Numpy Basics     |  |
@@ -128,12 +128,12 @@
 | Day 89 | 11th Jan 2022 | Solidity    |  |
 | Day 90 | 12th Jan 2022 | Solidity, DeFi Dapp   |  |
 | Day 91 | 13th Jan 2022 | smart contract, DeFi Dapp   |  |
-| Day 92 | 14th Jan 2022 | React JS   |  |
+| Day 92 | 14th Jan 2022 | React JS   | [Expense Tracker](https://github.com/RohitSinghDev/React-Expense-Tracker) |
 | Day 93 | 15th Jan 2022 | React JS   |  |
 |  |  | DeFi Dapp   |  |
 | Day 94 | 16th Jan 2022 | React JS   |  |
 |  |  | DeFi Dapp   |  |
-| Day 95 | 17th Jan 2022 | React JS   |  |
+| Day 95 | 17th Jan 2022 | React JS   | [Expense Tracker](https://github.com/RohitSinghDev/React-Expense-Tracker) |
 |  |  | Solidity, Blockchain concepts   |  |
 |  |  | DS-Graphs   |  |
 | Day 96 | 18th Jan 2022 | React JS   |  |
