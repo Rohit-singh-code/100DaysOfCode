@@ -122,10 +122,10 @@
 |  |  |  JS advanced concepts    |  |
 | Day 87 | 9th Jan 2022 | Blockchain tech stack, Dapp project      |  |
 |  |  |  Python-oops    |  |
-| Day 88 | 10th Jan 2022 | Blockchain, Solidity basics     |  |
+| Day 88 | 10th Jan 2022 | Blockchain, Solidity basics     | [Smart Contracts & solidity](https://github.com/RohitSinghDev/Solidity-and-Smart-Contracts) |
 |  |  |  Python-oops-magic methods    |  |
 |  |  |  JS-scope chaining    |  |
-| Day 89 | 11th Jan 2022 | Solidity    |  |
+| Day 89 | 11th Jan 2022 | Solidity    | [Smart Contracts & solidity](https://github.com/RohitSinghDev/Solidity-and-Smart-Contracts) |
 | Day 90 | 12th Jan 2022 | Solidity, DeFi Dapp   |  |
 | Day 91 | 13th Jan 2022 | smart contract, DeFi Dapp   |  |
 | Day 92 | 14th Jan 2022 | React JS   | [Expense Tracker](https://github.com/RohitSinghDev/React-Expense-Tracker) |
@@ -137,17 +137,17 @@
 |  |  | Solidity, Blockchain concepts   |  |
 |  |  | DS-Graphs   |  |
 | Day 96 | 18th Jan 2022 | React JS   |  |
-|  |  | Solidity, Blockchain concepts   |  |
+|  |  | Solidity, Blockchain concepts   | [Smart Contracts & solidity](https://github.com/RohitSinghDev/Solidity-and-Smart-Contracts) |
 |  |  | JS scope chaining   |  |
 | Day 97 | 19th Jan 2022 | Python oops   |  |
 |  |  | Bitcoin, Blockchain concepts   |  |
 | Day 98 | 20th Jan 2022 | DS-Trees   |  |
 |  |  | IPFS   |  |
 |  |  | React JS   |  |
-| Day 99 | 21st Jan 2022 |  smart contracts, test files  |  |
+| Day 99 | 21st Jan 2022 |  smart contracts, test files  | [Smart Contracts & solidity](https://github.com/RohitSinghDev/Solidity-and-Smart-Contracts) |
 |  |  | DS   |  |
 | Day 100 | 22nd Jan 2022 | JS hoisting and concepts   |  |
-|  |  | smart contracts, solidity   |  |
+|  |  | smart contracts, solidity   | [Smart Contracts & solidity](https://github.com/RohitSinghDev/Solidity-and-Smart-Contracts) |
 
 
 
